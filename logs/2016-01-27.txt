@@ -1,0 +1,8 @@
+[27-Jan-2016 13:39:16 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /home/noddy/projects/phpmvc/7-060/public/index.php(47): Core\Router->dispatch('sdfsd')
+#1 {main}
+Thrown in '/home/noddy/projects/phpmvc/7-060/Core/Router.php' on line 133
+[27-Jan-2016 13:39:17 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /home/noddy/projects/phpmvc/7-060/public/index.php(47): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/home/noddy/projects/phpmvc/7-060/Core/Router.php' on line 133

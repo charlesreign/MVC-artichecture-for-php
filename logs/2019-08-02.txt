@@ -1,0 +1,4 @@
+[02-Aug-2019 22:56:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\PHPStallion\public\index.php(40): Core\Router->dispatch('product/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\PHPStallion\Core\Router.php' on line 130
